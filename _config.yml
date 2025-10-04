@@ -8,11 +8,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : Max Li
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
+name                     : Max Li
+description              : Max Li - Architecture Student, Cornell, AAP
 baseurl                  : "" # Set this to your repo name 
 
 # Theme and Style

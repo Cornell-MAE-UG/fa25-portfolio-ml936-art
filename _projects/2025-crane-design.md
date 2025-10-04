@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Crane Design
-description: Design of a simple crane system to maximize lifting capacity
+description: Design of simple crane that maximizes lifting capacity
 technologies: [Autodesk Fusion]
 image: /assets/images/2025-crane-design.png
 ---
