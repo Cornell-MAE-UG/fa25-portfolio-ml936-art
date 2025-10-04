@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Max Li
 description              : Max Li - Architecture Student, Cornell, AAP
-baseurl                  : "" # Set this to your repo name 
+baseurl                  : "/fa25-portfolio-ml936-art" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
